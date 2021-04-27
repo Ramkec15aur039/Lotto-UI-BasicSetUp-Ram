@@ -1,0 +1,26 @@
+<svg id="Group_371" data-name="Group 371" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="89.804" height="94.075" viewBox="0 0 89.804 94.075">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 60 60">
+      <image width="60" height="60"
+        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAACXBIWXMAAAsSAAALEgHS3X78AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAARpJREFUeNrs22sOgjAQBGBmD+P9z+NlMBhNNBakL9rdmf4kkvAxuwHMFkvHta7rreQ8APde14RZkFfdAMyK7AWHB2hLOLxha+HwCK1BwzO2BI4I2Bw0omDPohEJewaNaNh/aIuIzS7pKNhUyrYEXqngjKWUkyUdtm8/Sjt0SR8mHL6UXynTJUwDflewMZQzZcKU4K2S+RJm6l/1sMACCyywwAILLLDALcE95ymU8OC1hasepgAz9bEx9e8XmCVlY0r3B8yQsjGlmwRHT9mY0n0e2/ux9/+r9yo15NhS8ZyWR3T1JJ4ndLNZSw/o5tO0M6NzHqUaEPcCL31Bqt7VMgI+ZJPHCPjwbTxXwFu/26N3Krk3oPfHy0OAAQCmaob2YYmmegAAAABJRU5ErkJggg==" />
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 27 12">
+      <image width="27" height="12"
+        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAMCAYAAACTB8Z2AAAACXBIWXMAAAsSAAALEgHS3X78AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAFRJREFUeNpiZCAB/P//X42BDMDIyHgLTNPKAmyAhdYW4LSMVpbAABO9LIJbRg+LwAmEbhYBUyQTvSxCiTNaW4Qz6VPbEppZhs0SuBy1iiJiAECAAQDv9B9A8lF3dgAAAABJRU5ErkJggg==" />
+    </pattern>
+  </defs>
+  <path id="Path_37" data-name="Path 37"
+    d="M885.347,242.7c12.982,0,23.547,1.911,23.547,4.271s-10.509,4.271-23.547,4.271c-12.982,0-23.547-1.911-23.547-4.271s10.565-4.271,23.547-4.271"
+    transform="translate(-840.445 -157.167)" fill-rule="evenodd" opacity="0.103" />
+  <path id="Path_38" data-name="Path 38" d="M868.7,90.5a44.9,44.9,0,1,1-44.9,44.9,44.922,44.922,0,0,1,44.9-44.9"
+    transform="translate(-823.8 -90.5)" fill="#aaa" fill-rule="evenodd" />
+  <path id="Path_39" data-name="Path 39" d="M890.34,139.9a17.14,17.14,0,1,1-17.14,17.14,17.136,17.136,0,0,1,17.14-17.14"
+    transform="translate(-845.438 -112.138)" fill="#fff" fill-rule="evenodd" />
+  <rect id="Rectangle_36" data-name="Rectangle 36" width="33.203" height="34.433" transform="translate(45.051 10.453)"
+    fill="url(#pattern)" />
+  <image id="Rectangle_37" data-name="Rectangle 37" width="15.987" height="15.987" transform="translate(68.416 43.656)"
+    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsSAAALEgHS3X78AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAIVJREFUeNrslkEKgDAMBLt5jP9/j5+J9FAQ0ZpqssFizqXDbCFdFMOo6nJ3BsBquQtvQaNgeIGsYETAelBEwa6giISdQaUQZi8j0XbHERaoSQnTjmqYAqxpzm34A78PrDt1/kjBWt7ti8oxZH7A9IohT7qlS6RpNdED3EsKXlXf+iSbAAMA/YJBlm0mx6kAAAAASUVORK5CYII=" />
+  <rect id="Rectangle_38" data-name="Rectangle 38" width="15.987" height="6.149" transform="translate(9.388 16.601)"
+    fill="url(#pattern-2)" />
+</svg>

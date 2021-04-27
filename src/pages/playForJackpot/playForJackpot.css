@@ -1,0 +1,45 @@
+.jackpotBetUl.padding {
+  padding-left: 0;
+}
+.baseballPlayForJackpot{
+  font-size: 70px;
+  position: relative;
+}
+.baseballPlayForJackpot > .baseBallNumber.PlayForJacpotDiv {
+  position: absolute;
+  top: 18%;
+  left: 18%;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  color: black;
+  background-color: white;
+}
+.PlayForJacpotNumber {
+  font-size: 25px;
+  padding-left: 0.6rem;
+  padding-top: 0.5rem;
+  position: absolute;
+}
+.playForJackpotInput {
+  background-color: transparent !important;
+}
+.playForJackpotImage {
+  margin-top: 6rem;
+}
+.playForJackpotMain p {
+  font-size: 18px;
+  padding-top: 6rem;
+}
+.playForJackpotMain {
+  padding-left: 3rem;
+}
+input[type="datetime-local"]::-webkit-calendar-picker-indicator {
+  filter: invert(50%) saturate(0%) hue-rotate(217deg) brightness(100%);
+}
+.PlayForJackpotUl{
+  list-style: none;
+  padding-left: 0;
+  margin-top: 1rem;
+  margin-bottom: 2rem !important;
+}

@@ -1,0 +1,92 @@
+.playForJackpot {
+  color: white !important;
+}
+.colPadding {
+  padding-top: 5rem !important;
+}
+.BtnPadding {
+  padding-top: 10rem;
+  text-align: center;
+}
+.yourBets {
+  width: 100%;
+  height: 975px;
+  background: #313150 0% 0% no-repeat padding-box;
+  opacity: 0.5;
+  padding-left: 2rem;
+}
+.PreviousDraw.paddingLeft {
+  padding-left: 0;
+}
+.jackpotBetUl {
+  padding-left: 3rem;
+  padding-right: 4rem;
+  padding-top: 2rem;
+}
+.baseballJackpotBet {
+  font-size: 70px;
+  position: relative;
+  display: block;
+}
+.baseballJackpotBet > .placeYourJackpotBetNumber {
+  color: black;
+  font-size: 17px;
+  font-weight: bold;
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: white;
+  padding: 4px;
+}
+.baseballJackpotBet > .baseBallNumberMediumSize {
+  color: black;
+  font-size: 10px;
+  font-weight: bold;
+  position: absolute;
+  top: 30%;
+  left: 24%;
+  width: 17px;
+  height: 17px;
+  border-radius: 50%;
+  background-color: white;
+  padding: 2.5px;
+}
+.baseballGrey {
+  color: grey;
+}
+.deleteIconPosition{
+  position: relative;
+}
+.deleteIcon{
+  position: absolute;
+  font-size: 20px;
+  top: 35%;
+  right: -20px;
+}
+.textArea{
+  background: none;
+  cursor: none;
+  border: none;
+}
+.background-PlaceYourJackpotBet{
+  background-image: url("../../assets/images/ball-palce-your-jackpotbet.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 70px;
+  width: 70px;
+}
+.background-PlaceYourJackpotBet-green{
+  background-image: url("../../assets/images/ball-palce-your-jackpotbet-green.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 70px;
+  width: 70px;
+}
+
+.background-PlaceYourJackpotBet.mediumSize, .background-PlaceYourJackpotBet-green.mediumSize {
+  height: 35px !important;
+  width: 35px !important;
+}

@@ -1,0 +1,41 @@
+.skipButton {
+  border-radius: 2rem !important;
+  width: 160px !important;
+  height: 45px !important;
+  opacity: 1;
+  border: 1px solid #f88a20 !important;
+  color: white;
+}
+.skipButton:hover {
+  background: transparent linear-gradient(270deg, #fd9f2d 0%, #ffaa34 100%) 0%
+    0% no-repeat padding-box !important;
+}
+.displayProperty.chooseColor{
+    float: unset;
+    text-align: center;
+}
+.chooseColorRed{
+  color: red;
+  float: left;
+  position: absolute;
+  top: -1rem;
+}
+.chooseColorBlack{
+  color: black;
+  float: right;
+  position: absolute;
+  top: -1rem;
+  right: 1.5rem;
+}
+.chooseColorUl{
+  list-style: none;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem !important;
+}
+.chooseColorPosition{
+  position: relative;
+}
+.baseballJackpotBet.medium{
+font-size: 35px !important;
+}
